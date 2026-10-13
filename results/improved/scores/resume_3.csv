@@ -1,0 +1,5 @@
+model,task,variant,n,parsed,correct,correct_parsed,accuracy,accuracy_parsed,unparsed,pred_top,pred_top_pct,degenerate,time_s,resumed,raw_path
+deepseek-r1-distill-qwen-1.5b,openbook_qa,improved,491,444,239,239,48.68,53.83,47,A,31.3,False,7121.3,True,improved/raw/deepseek-r1-distill-qwen-1.5b__openbook_qa__improved.jsonl
+qwen3-4b-instruct-2507,piqa,improved,696,696,606,606,87.07,87.07,0,A,51.6,False,62.4,True,improved/raw/qwen3-4b-instruct-2507__piqa__improved.jsonl
+qwen3-4b-instruct-2507,openbook_qa,improved,491,491,411,411,83.71,83.71,0,A,27.5,False,44.0,True,improved/raw/qwen3-4b-instruct-2507__openbook_qa__improved.jsonl
+tinyllama-1.1b,piqa,improved,696,63,35,35,5.03,55.56,633,A,81.0,True,849.4,True,improved/raw/tinyllama-1.1b__piqa__improved.jsonl

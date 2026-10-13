@@ -1,0 +1,2 @@
+model,task,variant,n,parsed,correct,correct_parsed,accuracy,accuracy_parsed,unparsed,pred_top,pred_top_pct,degenerate,time_s,raw_path
+deepseek-r1-distill-qwen-1.5b,piqa,baseline,696,348,214,214,30.75,61.49,348,A,50.9,False,13155.0,results/baseline/raw/deepseek-r1-distill-qwen-1.5b__piqa__baseline.jsonl

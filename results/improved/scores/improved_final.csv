@@ -1,0 +1,13 @@
+model,task,variant,n,parsed,unparsed,correct,accuracy,accuracy_parsed,first_letter_acc,extractor_delta,pred_top,pred_top_pct,degenerate,unknown_questions,raw_path
+deepseek-r1-distill-qwen-1.5b,commonsense_qa,improved,710,685,25,325,45.77,47.45,22.39,23.38,A,25.5,False,0,improved/raw/deepseek-r1-distill-qwen-1.5b__commonsense_qa__improved.jsonl
+deepseek-r1-distill-qwen-1.5b,openbook_qa,improved,491,444,47,239,48.68,53.83,31.16,17.52,A,31.3,False,0,improved/raw/deepseek-r1-distill-qwen-1.5b__openbook_qa__improved.jsonl
+deepseek-r1-distill-qwen-1.5b,piqa,improved,696,663,33,427,61.35,64.4,49.57,11.78,A,54.8,False,0,improved/raw/deepseek-r1-distill-qwen-1.5b__piqa__improved.jsonl
+qwen2.5-3b-instruct,commonsense_qa,improved,710,710,0,552,77.75,77.75,77.75,0.0,E,22.8,False,0,improved/raw/qwen2.5-3b-instruct__commonsense_qa__improved.jsonl
+qwen2.5-3b-instruct,openbook_qa,improved,491,491,0,384,78.21,78.21,78.21,0.0,A,27.9,False,0,improved/raw/qwen2.5-3b-instruct__openbook_qa__improved.jsonl
+qwen2.5-3b-instruct,piqa,improved,696,696,0,577,82.9,82.9,82.9,0.0,B,50.3,False,0,improved/raw/qwen2.5-3b-instruct__piqa__improved.jsonl
+qwen3-4b-instruct-2507,commonsense_qa,improved,710,710,0,566,79.72,79.72,79.72,0.0,E,20.7,False,0,improved/raw/qwen3-4b-instruct-2507__commonsense_qa__improved.jsonl
+qwen3-4b-instruct-2507,openbook_qa,improved,491,491,0,411,83.71,83.71,83.71,0.0,A,27.5,False,0,improved/raw/qwen3-4b-instruct-2507__openbook_qa__improved.jsonl
+qwen3-4b-instruct-2507,piqa,improved,696,696,0,606,87.07,87.07,87.07,0.0,A,51.6,False,0,improved/raw/qwen3-4b-instruct-2507__piqa__improved.jsonl
+tinyllama-1.1b,commonsense_qa,improved,710,12,698,1,0.14,8.33,19.58,-19.44,A,75.0,False,0,improved/raw/tinyllama-1.1b__commonsense_qa__improved.jsonl
+tinyllama-1.1b,openbook_qa,improved,491,6,485,1,0.2,16.67,27.09,-26.88,D,66.7,False,0,improved/raw/tinyllama-1.1b__openbook_qa__improved.jsonl
+tinyllama-1.1b,piqa,improved,696,63,633,35,5.03,55.56,46.7,-41.67,A,81.0,True,0,improved/raw/tinyllama-1.1b__piqa__improved.jsonl

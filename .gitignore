@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# ---- Local model weights (if any are ever downloaded here) ----
+models/
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+
+# ---- Hugging Face cache (keep it out of the repo) ----
+.cache/
+hf_cache/
+
+# ---- Experiment artifacts ----
+# keep the directory structure but ignore bulky generated outputs
+results/raw/*.jsonl
+results/raw/*.json
+results/scores/*.csv
+figures/*.png
+figures/*.pdf
+!results/raw/.gitkeep
+!results/scores/.gitkeep
+!figures/.gitkeep
+
+# ---- SLURM logs ----
+logs/*.out
+logs/*.err
+!logs/.gitkeep
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/settings.json
+
+# ---- Secrets ----
+.env
+.env.*
+hf_token.txt

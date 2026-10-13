@@ -1,0 +1,6 @@
+,accuracy,accuracy,accuracy_parsed,accuracy_parsed,unparsed,unparsed
+task,openbook_qa,piqa,openbook_qa,piqa,openbook_qa,piqa
+model,,,,,,
+deepseek-r1-distill-qwen-1.5b,48.68,,53.83,,47.0,
+qwen3-4b-instruct-2507,83.71,87.07,83.71,87.07,0.0,0.0
+tinyllama-1.1b,,5.03,,55.56,,633.0

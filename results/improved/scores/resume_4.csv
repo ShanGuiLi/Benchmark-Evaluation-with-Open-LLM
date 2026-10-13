@@ -1,0 +1,3 @@
+model,task,variant,n,parsed,correct,correct_parsed,accuracy,accuracy_parsed,unparsed,pred_top,pred_top_pct,degenerate,time_s,resumed,raw_path
+qwen2.5-3b-instruct,commonsense_qa,improved,710,710,552,552,77.75,77.75,0,E,22.8,False,51.6,True,improved/raw/qwen2.5-3b-instruct__commonsense_qa__improved.jsonl
+tinyllama-1.1b,openbook_qa,improved,491,6,1,1,0.2,16.67,485,D,66.7,False,613.4,True,improved/raw/tinyllama-1.1b__openbook_qa__improved.jsonl

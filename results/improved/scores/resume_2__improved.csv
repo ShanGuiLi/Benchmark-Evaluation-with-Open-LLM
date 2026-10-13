@@ -1,0 +1,6 @@
+,accuracy,accuracy_parsed,unparsed
+task,commonsense_qa,commonsense_qa,commonsense_qa
+model,,,
+deepseek-r1-distill-qwen-1.5b,45.77,47.45,25.0
+qwen3-4b-instruct-2507,79.72,79.72,0.0
+tinyllama-1.1b,0.14,8.33,698.0

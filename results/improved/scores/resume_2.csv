@@ -1,0 +1,4 @@
+model,task,variant,n,parsed,correct,correct_parsed,accuracy,accuracy_parsed,unparsed,pred_top,pred_top_pct,degenerate,time_s,resumed,raw_path
+deepseek-r1-distill-qwen-1.5b,commonsense_qa,improved,710,685,325,325,45.77,47.45,25,A,25.5,False,9044.6,True,improved/raw/deepseek-r1-distill-qwen-1.5b__commonsense_qa__improved.jsonl
+qwen3-4b-instruct-2507,commonsense_qa,improved,710,710,566,566,79.72,79.72,0,E,20.7,False,62.2,True,improved/raw/qwen3-4b-instruct-2507__commonsense_qa__improved.jsonl
+tinyllama-1.1b,commonsense_qa,improved,710,12,1,1,0.14,8.33,698,A,75.0,False,853.9,True,improved/raw/tinyllama-1.1b__commonsense_qa__improved.jsonl

@@ -1,0 +1,19 @@
+# Open-LLM-Benchmark 数据集配置。
+# 数据集的 "dataset" 字段用于把样本按任务分组。
+dataset:
+  name: Open-Style/Open-LLM-Benchmark
+  config: questions
+  split: train
+
+# 作业要求的 3 个任务。name 必须与数据集中 dataset 字段的取值完全一致。
+# 注意：数据集中 PiQA 的取值是小写 "piqa"，且 CommonsenseQA 有 5 个选项(A-E)。
+tasks:
+  - key: commonsense_qa
+    name: CommonsenseQA
+    num_options: 5
+  - key: openbook_qa
+    name: OpenbookQA
+    num_options: 4
+  - key: piqa
+    name: piqa
+    num_options: 2

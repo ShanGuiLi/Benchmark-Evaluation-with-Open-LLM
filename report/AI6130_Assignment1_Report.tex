@@ -1,0 +1,165 @@
+\documentclass[10pt,twocolumn]{article}
+
+\usepackage[letterpaper,margin=0.72in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
+
+\setlength{\columnsep}{0.24in}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+\setlist{nosep,leftmargin=*}
+\renewcommand{\abstractname}{Abstract}
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  columns=fullflexible,
+  keepspaces=true,
+  breaklines=true,
+  frame=single,
+  rulecolor=\color{black!25},
+  xleftmargin=2pt,
+  xrightmargin=2pt,
+  aboveskip=4pt,
+  belowskip=4pt
+}
+
+\title{Prompt Engineering for Multiple-Choice Evaluation of\ Open Language Models}
+\author{[Student Name]\\[Student ID]\\AI6130 -- Assignment 1}
+\date{13 October 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We evaluate four open language models on CommonsenseQA, OpenbookQA, and PiQA using the Open-Style Open-LLM-Benchmark. For each model and task, we compare the supplied open-ended answer cue with a prompt that requests exactly one task-valid option label. We report overall accuracy and output parse rate over 1,897 examples per model and prompt condition. The constrained prompt raises accuracy for Qwen2.5-3B-Instruct and Qwen3-4B-Instruct-2507 on all tasks, and substantially improves DeepSeek-R1-Distill-Qwen-1.5B on PiQA. It reduces TinyLlama's answer parseability and accuracy. We document the exact prompt templates and a conservative, ordered answer-extraction procedure to make the comparison auditable and reproducible.
+\end{abstract}
+
+\section{Introduction}
+Multiple-choice evaluation of generative language models depends on both selecting the correct option and expressing that selection in a recoverable form. A free-form explanation may contain several option labels or no explicit final choice, making the measured accuracy sensitive to answer extraction. This study evaluates four models on three tasks and tests whether an explicit output-format instruction improves accuracy and parseability.
+
+\section{Experimental Setup}
+\subsection{Tasks and Models}
+The evaluation uses the \texttt{train} split of Open-Style/Open-LLM-Benchmark~\cite{dataset}, grouped by its dataset field. CommonsenseQA contains 710 examples with labels A--E, OpenbookQA 491 with A--D, and PiQA 696 with A--B. Each model is evaluated on all three tasks under both prompt conditions, for 1,897 generations per model and condition.
+
+\begin{table}[t]
+\centering
+\small
+\caption{Models and generation configuration.}
+\label{tab:models}
+\begin{tabular}{@{}lll r@{}}
+\toprule
+Model & Input & Decode & Tokens\\
+\midrule
+TinyLlama-1.1B~\cite{tiny} & Plain text & Greedy & 64\\
+Qwen2.5-3B~\cite{qwen25} & Chat & Greedy & 64\\
+DeepSeek-R1-1.5B~\cite{deepseek} & Chat & Greedy & 1,024\\
+Qwen3-4B~\cite{qwen3} & Chat & Greedy & 192\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+All runs use deterministic greedy decoding (\texttt{do\_sample=false}). The model-specific generation budget is held fixed between the baseline and improved condition for each model. The three instruction-tuned models receive the prompt as a single user turn through the tokenizer-provided chat template, with a generation prompt appended. TinyLlama receives the raw text prompt.
+
+\subsection{Exact Prompt Templates}
+Both templates use the sample's question verbatim and render each option on its own line as \texttt{LABEL: option text}. The baseline is exactly:
+\begin{lstlisting}
+{question}
+A: {option_A}
+B: {option_B}
+...
+Answer: 
+\end{lstlisting}
+The improved template uses the same question and options, then inserts the following instruction before the answer cue:
+\begin{lstlisting}
+Choose the best answer from the options above. Output
+exactly one label from [{valid_labels}] and nothing else.
+Answer: 
+\end{lstlisting}
+Here \texttt{{valid\_labels}} is comma-separated and task-dependent (e.g., \texttt{A, B} for PiQA and \texttt{A, B, C, D, E} for CommonsenseQA). For example, a PiQA instance expands to:
+\begin{lstlisting}
+{question}
+A: {option_A}
+B: {option_B}
+Choose the best answer from the options above. Output
+exactly one label from [A, B] and nothing else.
+Answer: 
+\end{lstlisting}
+The trailing space after \texttt{Answer:} is part of the constructed prompt. No few-shot examples were included in either evaluated condition.
+
+\subsection{Answer Extraction and Metrics}
+For every generation, the extractor returns one valid label or the empty string. It does not compare option semantics or infer an unstated answer. Before extraction, if a recognized reasoning-closing marker is present (including \texttt{</think>}, \texttt{</thinking>}, and the corresponding Qwen/DeepSeek full-width forms), text through the last such marker is discarded. If no closing marker occurs, the output is retained as generated.
+
+The following rules are applied in order; the first rule producing a confident result is used:
+\begin{enumerate}
+\item If punctuation-trimming leaves the entire output as one valid label, return it. This check is case-insensitive (\texttt{a} maps to \texttt{A}).
+\item Match \texttt{\\boxed\{X\}}. The captured letter is normalized to uppercase.
+\item Match an explicit \emph{answer} statement, such as \texttt{answer: B} or \texttt{the best answer ... is B}. Matching is case-insensitive; the gap from ``answer'' to the label must be on the same line and at most 40 characters. A label followed by a list connector (``and'', ``or'', or comma) is rejected. Only one distinct valid label may match; repeated occurrences of the same label are allowed.
+\item Match an explicit choice cue, such as \texttt{choose B}, \texttt{select option C}, or \texttt{choice: D}, case-insensitively. A cue is ignored when a comparison term (e.g., ``unlike'', ``rather than'', or ``versus'') occurs in the preceding comparison window. The remaining matches must identify one distinct valid label.
+\item Match a parenthesized or bracketed letter, e.g., \texttt{(A)} or \texttt{[b]}. Captured letters are normalized to uppercase, and different matching labels make this rule ambiguous.
+\item As a fallback, accept one unique standalone uppercase option letter. For outputs up to 400 characters, the full cleaned output is checked; for longer outputs, only the final 200 characters are checked. Letters embedded in words are excluded. The English article ``A'' is excluded unless followed by a form of ``to be'', and a label immediately preceded by a negation (``not'', ``nor'', ``no'', ``neither'', ``never'') is excluded. There must be exactly one candidate label and exactly one distinct non-negated valid label mentioned in the checked text. Thus, mentioning A and B without an explicit unambiguous answer yields no label; repeating A alone is not ambiguous.
+\item As a final fallback, match an option text echoed in the output. Both strings are lowercased and whitespace-normalized; a match must be at least three characters and bounded by non-word characters or string boundaries. Exactly one option text must match.
+\end{enumerate}
+All label captures are normalized to uppercase and checked against the current task's valid labels. Consequently, rules 1--5 can accept lowercase captures where their patterns allow them, while the standalone-letter fallback specifically requires uppercase. If no rule produces one valid label, the prediction is unparsed. Overall accuracy is correct predictions divided by all examples, counting unparsed outputs as incorrect. Parse rate is the fraction with a nonempty prediction. Parsed accuracy is accuracy restricted to parsed outputs and is used in the discussion, but not as the primary accuracy.
+
+\section{Results}
+Table~\ref{tab:results} reports overall accuracy, parse rate, and the change in overall accuracy (percentage points, pp). Every cell is computed over the full task set, not only parsed responses.
+
+\begin{table*}[t]
+\centering
+\small
+\setlength{\tabcolsep}{5pt}
+\caption{Overall accuracy / parse rate for baseline and improved prompts. $\Delta$ is the improved-minus-baseline accuracy in percentage points.}
+\label{tab:results}
+\begin{tabular}{@{}llrrr@{}}
+\toprule
+Model & Task & Baseline (\%) & Improved (\%) & $\Delta$ (pp)\\
+\midrule
+TinyLlama-1.1B & CommonsenseQA & 2.11 / 9.4 & 0.14 / 1.7 & -1.97\\
+ & OpenbookQA & 2.85 / 11.6 & 0.20 / 1.2 & -2.65\\
+ & PiQA & 16.52 / 34.5 & 5.03 / 9.1 & -11.49\\
+\midrule
+Qwen2.5-3B-Instruct & CommonsenseQA & 63.10 / 88.5 & 77.75 / 100.0 & +14.65\\
+ & OpenbookQA & 57.43 / 85.3 & 78.21 / 100.0 & +20.78\\
+ & PiQA & 63.94 / 82.9 & 82.90 / 100.0 & +18.96\\
+\midrule
+DeepSeek-R1-Distill-Qwen-1.5B & CommonsenseQA & 45.21 / 94.5 & 45.77 / 96.5 & +0.56\\
+ & OpenbookQA & 49.69 / 86.8 & 48.68 / 90.4 & -1.01\\
+ & PiQA & 30.75 / 50.0 & 61.35 / 95.3 & +30.60\\
+\midrule
+Qwen3-4B-Instruct-2507 & CommonsenseQA & 41.97 / 60.4 & 79.72 / 100.0 & +37.75\\
+ & OpenbookQA & 53.56 / 70.7 & 83.71 / 100.0 & +30.15\\
+ & PiQA & 68.53 / 95.4 & 87.07 / 100.0 & +18.54\\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+Qwen3 is the most accurate model under the improved prompt on all three tasks (79.72\%, 83.71\%, and 87.07\%). Qwen2.5 also improves consistently, with gains from 14.65 to 20.78 pp. Both models reach a 100\% parse rate under the improved prompt. Qwen3's largest gain is on CommonsenseQA, where its baseline parse rate was 60.4\%.
+
+The gains for Qwen2.5 and Qwen3 are not solely a consequence of making outputs parseable. Their parsed accuracy also increases on every task. For Qwen2.5, parsed accuracy changes from 71.34\% to 77.75\% on CommonsenseQA, 67.30\% to 78.21\% on OpenbookQA, and 77.12\% to 82.90\% on PiQA. For Qwen3, it changes from 69.46\%, 75.79\%, and 71.84\% to 79.72\%, 83.71\%, and 87.07\%, respectively.
+
+DeepSeek has a mixed response: parse rate rises on all tasks, but accuracy changes little on CommonsenseQA (+0.56 pp) and declines slightly on OpenbookQA (-1.01 pp). Its large PiQA improvement (+30.60 pp) is chiefly associated with parse rate rising from 50.0\% to 95.3\%; parsed accuracy increases more modestly, from 61.49\% to 64.40\%.
+
+TinyLlama's response is opposite to the instruction-tuned models. Its improved-prompt parse rates are 1.7\%, 1.2\%, and 9.1\% across CommonsenseQA, OpenbookQA, and PiQA; overall accuracy falls on all three. This suggests that an instruction to emit a single label is not effective for this completion-oriented model under the tested plain-text setup. Its small parsed subsets also make parsed-accuracy estimates unstable.
+
+\section{Limitations and Conclusion}
+This experiment uses one benchmark split and one greedy generation per question. Results may change with alternative prompts, decoding strategies, or data splits. The parser intentionally rejects ambiguous outputs rather than choosing among discussed options; this improves precision of answer attribution but can lower parse rate when a model gives a correct answer inside a multi-option explanation. Cross-model comparisons also reflect different token budgets selected for each model, although each model's baseline and improved runs use identical settings.
+
+In this evaluation, a dynamically constrained answer prompt improves accuracy and parseability for Qwen2.5 and Qwen3 across all tasks, and improves DeepSeek substantially on PiQA. It harms TinyLlama. The results therefore support prompt-format constraints for the tested chat-tuned models, but also show that prompt effectiveness is model-dependent. Qwen3 achieves the highest improved-prompt accuracy on each task.
+
+\begin{thebibliography}{9}
+\bibitem{dataset} Open-Style, ``Open-LLM-Benchmark,'' Hugging Face Datasets. \url{https://huggingface.co/datasets/Open-Style/Open-LLM-Benchmark}.
+\bibitem{tiny} TinyLlama, ``TinyLlama_v1.1.'' \url{https://huggingface.co/TinyLlama/TinyLlama_v1.1}.
+\bibitem{qwen25} Qwen, ``Qwen2.5-3B-Instruct.'' \url{https://huggingface.co/Qwen/Qwen2.5-3B-Instruct}.
+\bibitem{deepseek} DeepSeek, ``DeepSeek-R1-Distill-Qwen-1.5B.'' \url{https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B}.
+\bibitem{qwen3} Qwen, ``Qwen3-4B-Instruct-2507.'' \url{https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507}.
+\end{thebibliography}
+
+\end{document}

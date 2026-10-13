@@ -1,0 +1,24 @@
+# AI6130 Assignment 1 - benchmark evaluation dependencies
+# Python 3.10 (conda env: llm-assignment)
+#
+# Versions below are the ones verified working on this cluster.
+#
+# IMPORTANT - install the CUDA build of torch first, otherwise plain
+# `pip install -r requirements.txt` pulls the CPU-only wheel:
+#
+#     pip install torch==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+#     pip install -r requirements.txt
+#
+# (Verified against cuda/12.8.0 on the MGPU-TC2 partition, NVIDIA A40.)
+
+torch==2.11.0
+transformers==5.19.0
+datasets==5.1.0
+accelerate==1.15.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+protobuf==7.36.2
+tqdm==4.70.1
+PyYAML==6.0.3
+pandas==2.3.3
+huggingface_hub==2.2.0

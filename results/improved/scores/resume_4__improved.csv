@@ -1,0 +1,5 @@
+,accuracy,accuracy,accuracy_parsed,accuracy_parsed,unparsed,unparsed
+task,commonsense_qa,openbook_qa,commonsense_qa,openbook_qa,commonsense_qa,openbook_qa
+model,,,,,,
+qwen2.5-3b-instruct,77.75,,77.75,,0.0,
+tinyllama-1.1b,,0.2,,16.67,,485.0

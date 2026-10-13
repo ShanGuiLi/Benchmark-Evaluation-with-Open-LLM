@@ -1,0 +1,491 @@
+{"question": "There is most likely going to be fog around:", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The main component in dirt is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A cactus stem is used to store", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A red-tailed hawk is searching for prey. It is most likely to swoop down on", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "The chance of wildfires is increased by", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A positive effect of burning biofuel is", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A Mola Mola might live where?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An animal that only eats plants is a", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What can feathers on Spheniscidae be used for?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you were attacked by a shark and had to punch it sharply where it pulls in air from, you'd use your hand to make contact with", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "what system is needed for a body to get its needed supply of the gas humans breathe in?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What animal eats plants?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What explains the characteristic lunar formations?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Tadpoles start their lives as", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is used for sensing visual things?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is different about birth in humans and chickens?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would happen when balloons heat up?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Seals are most likely to be found in what type of environment?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "To improve health, what is a good strategy?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The transportation with the most mass is likely a", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Owls are likely to hunt at", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What could be a positive aspect of a tree being cut down?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Birds carrying away fruit helps the tree", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Inherited behavior is exhibited when", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What likely explains deforestation?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Mosquitoes enjoy all the people at a BBQ in the summer for what reason?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When trying to pull a rose out of the ground why do you encounter resistance?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A bat flew through the sky without hitting anything due to which of these?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "How can we see that the coloration of fur is an inherited characteristic?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The amount of friction and the speed of an object have what kind of relationship?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which substance is capable of dripping?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is the benefit to using a frosted window film over a non treated windows?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Beak shape can influence a bird's ability", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Some blind people have demonstrated bat-like skills by:", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "December 21st through March 20 is a three month period which is an example of what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is a more comfortable color to have for your automobile upholstery if living in a desert?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When looking for good soil for plants, typically what is optimal?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Rainbows are always found after what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Crop rotation has a positive impact on what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Cold-blooded animals are often", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which animal is considered a predator?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What type of characteristics are people not born with?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "One of the negative consequences of offshore oil platforms is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What may have been formed by a volcano?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "How could we determine approximately how far a bird is from the ground?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What does someone do when creating music?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Since density = mass / volume, denser liquids such as water sink more than", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "The force exerted on an object and distance traveled have what kind of relationship?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The viewing oriented sensor of a prairie creature are for what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Seasons are caused by what rotating on its axis?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Asteroids crashing on planets can leave behind", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A small creek absorbing heat energy can result in", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Summertime  happens during June in all but which location?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "It takes more water to fill a bathtub than a", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is an example of hunting?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which of these has shape that changes depending on the container which it resides within?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would be the flavor if you ate the item that fell and is thought to have hit Sir Issac Newton's head", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Earth's four layers are comprised mainly of", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "if coffee sits in the fridge and loses its liquid form, what is that point known as?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Mammals give birth to live", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "if the population in a habitat is on a steady decline, what condition is the habitat?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When would a nocturnal predator most likely hunt?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where water be located in its gas form?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "I'm an animal with a white fur and a large fluffy tail that lives in arctic regions; what am I?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Dairy is a source of", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "why do tadpoles change into frogs?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What do cows eat?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which object conducts electricity?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The boy was able to warm the fireplace without a lighter thanks to what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would a duck like to live?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What do tuna eat?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "is it normal for an adult animal to lay eggs?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Organisms covered by layers of sediment", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A lake environment is a good setup for what to happen to organic remains?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "were there fossil fuels in the ground when humans evolved?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "The Grand Canyon is massive, with large, high peaks and very deep lows, which was formed when", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What type of useful product can be made from the moving winds?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is a stopwatch used for?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "As a drought worsens the level at an aquifer will", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When a kid slams on the brakes on their bike what is caused?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A hemisphere experiences summer when", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What date is the amount of daylight minimized", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Which term is involved with protection by skin?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Nuclear activity is the cause of what celestial occurrence?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Which source provides the safest water?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Through DNA, a rabbit will have long ears if", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An octopus protects itself with", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The sidewalk next to a house having a crack in it and having vegetation growing from it is considered?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "a large cluster of humans, dogs, apple trees, atmosphere and more can be called", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which pair don't reproduce the same way?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which of the following is warm blooded?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Roasting a turkey requires adding what type of energy", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Phloem moves things around a plant similar to how", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would a polar bear be most comfortable?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "How is electricity produced from the ocean?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An example of a chemical reaction would be", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "The size of an object and the ability to see it more easily have what kind of relationship?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Tuna primarily eat", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Evaporation of water can lead to", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What is an electrical energy conductor?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What kind of substance will cool when it touches a cold object?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Which animal lays eggs", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A learned behavior is exhibited when", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the primary reason my duck feather filled jacket works well against the snow", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Turbines churning seawater can be used to produce what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What will increase when a substance absorbs solar energy?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A company makes notebooks for college courses, so their main material is", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What are iron nails made out of?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Putting one kind of soda into the same cup as another kind of soda is doing what to the substances?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A moth leaving it's cocoon is the final step in a", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Which of these combinations would be desired if someone wanted to make a cutting implement that lasts a long time?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "if you put wine from a jug into a thin bottle, how come it conforms?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Earthworms create tunnels in", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "when worms return nutrients from dead organisms to the soil by eating them it is known as", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "which of these are you most likely to find in a desert?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If your dog sits in an oxygen deficient chamber, what happens?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The nimbleness of this animal is a key adaption that allows it to escape attacks from predators:", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "what are eaten by honey producing insects?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "The Earth's closest heat source is", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How can we see how wind effects sand?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Fruit comes from what source", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "In which location would a groundhog hide from a wolf?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The arctic is white in coloring", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What would help to ensure that your dog remains free from hypothermia in January in Alaska?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What food production happens in a leaf?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you find a mine?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What can cause people to crash their car?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring, so", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Building new areas to dispose of refuse may lead to", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An organism that makes food for itself", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What does the respiratory system transfer to the circulatory system?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "In a closed circuit, electricity will", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A Punnett square can be used to calculate the chance of a trait being passed to someone's", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "what kind of temperature causes fur shedding?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What is an example of clear weather meaning sunny weather?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The special tissues in plants that transport minerals throughout the plant are similar to", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "a compass is a kind of tool for determining direction by pointing", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "although there are many stars visible in the night sky, which is most visible in the day?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The moon is known for having what feature?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which of the following human activities can lead to a change in the local ecosystem?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The leading cause of soil and rock erosion is", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What kind of implement is a compass?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "what is the closest source of plasma to our planet?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What would cause a human to grow?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A saguaro has adaptations for an environment with", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why might a polar bear grow white hair?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The heart is an example of", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A flashlight will need this in order to radiate photons:", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "How do polar bears survive the cold?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What are the feet of Dendrocygna autumnalis designed for?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is an example of fire giving off light?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A stick bug uses what to protect itself from predators?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The inside of the Thanksgiving turkey is white instead of pink because of", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Little puppies are a result of:", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What would a Jersey most likely be fed?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which of these energy sources generates the least amount of pollution?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Grass snakes live in what?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Tapping a drumstick to a drum will", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "A star, burning far, far away, has enormous pressure and temperature. This allows for", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "In order for your computer to operate, it must have an electrical path that is what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Polar bears live in", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What would be more likely to attract a magnet?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What constitutes a frog's diet?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is an example of the digestive system digesting food for the body?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "if a place has experienced flooding, what could be responsible?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What is an example of reproduction?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A place that is snowy has a large amount of", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An ideal abode for crickets is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "if a bat delivers a live offspring, what does this tell us?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "If you find something smooth and hard on the ground, it is probably made of what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What could I use as biofuel", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Which best demonstrates the concept of force causing an increase in speed?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which would you likely find inside a beach ball?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Are deserts characterized by high sunshine?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Objects used to hold sheets of paper together are often", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "In order for plants and animals to grow, they need to consume food and water for", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A bear cub learns to stay away from unknown bears because", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What element is prevalent in a plateau?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a grizzly bear eats a salmon, what is the grizzly bear demonstrating?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If I want to go running at night, what can I use as a reflector?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "the closest star to our planet delivers solar energy to the planet", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "A renewable resource is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Which animal has live births?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Quartz crystals are made up of", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "cellular respiration is when energy is produced in a cell by consumption of", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Water levels may decrease on cloudless days because", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A beach ball goes from flat to round once you put what inside of it?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "In general, how many times per month is there a full moon?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What kind of object does light bounce off of?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The amount of brush in a park has been decreasing. What could be a cause?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "if a pot on the stove is described as hot, what does this mean?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What animal is more difficult for predators to see in water?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When ice buildup is on a sidewalk, the ice may be reduced by", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How many times would someone change the page of a calendar in a year?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which musical instrument is the same type as a guitar?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which of these is a place where a human might live?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Camouflage is when an organism does what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which of these is required for a plant to enjoy the product of a rain storm?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How does a microscope make small things appear?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Water can turn to vapor", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Camouflage can be used by animals for hunting", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A measurement of time that is less than a minute is a", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What will be more available in an area when rainfall increases?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When does the first quarter phase of the moon occur?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An ice cube placed in sunlight will", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The skeletal system protects which of these?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What has more gravity force than Earth but less than the sun?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What happens as water levels rise?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "An increase in an object's temperature occurs when", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An animal might pant", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "An instinctual behavior is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "How do plants reproduce?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What produce pollen and seeds?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "which of these would be most ideal for plant root growth?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Earth revolves around", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "An example of water being an electrical conductor would be what?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What would Occur once between January 1st and December 31st", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Burning something that reproduces usually will:", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "what does a chipmunk do with acorns", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A pot of pasta is boiling on the stove, and the lid on top of the pot is shaking as the water boils more rapidly. A person goes to the stove and removes the pot, releasing steam into the air above, and so the steam is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A plant that gets extra minerals such as zinc are probably", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "where might a bunny live?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A shark will be unable to survive on eating algae and moss, because", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The Grand Canyon was formed by", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When birds migrate south for the winter, they do it because", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A person can grow cabbage in January with the help of what product?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A frog, in winter, will burrow itself into soft mud, until it freezes, then in the spring", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which describes the size of an object?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Dew is formed when what condenses?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The Earth revolving around the sun can cause", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A fire starts in a wide, open field and catches onto a forest. The fire started even though people were far away from the woods. A potential cause for the start of it could have been", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Roads present danger to animals because", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "plant requires what for photosynthesis", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Winter solstice occurs on a day when", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What boils at the boiling point?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When vapor condenses overnight it often ends up on", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Which is a good source of nutrients for a mushroom?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A strawberry is in zero way a true berry because it", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The epidermis is part of", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Frogs are unable to give live birth, and their eggs are soft, unlike other eggs, in fact", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why can an Owl retain it's body temperature during the winter?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the source of energy for physical cycles on Earth?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Pasteurization reduces the amount of bacteria in", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Which would best store new whale offspring?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "All the deer in one area moved away. This could be because", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An herbivore like a giraffe will only consume", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If something is outside during the day what will it receive?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Squirrels store acorns", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An organism's requirements and its survival rate have what kind of relationship?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An example of a seasonal change that a furry animal might adopt could be similar to:", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What could be used as an electrical conductor", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How does ice wedging cause rocks to crack?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Fossils are formed when what happens?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What can show that loss of resources has a negative impact on the organisms in an area?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What vehicle would you use to travel on the majority of the surface of the planet on which we live?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "A bear's fur and duck's feathers both help the animal survive by", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What's an example of the idea that if one mineral can scratch another mineral then that other mineral is softer than that one mineral?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is a source of energy?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "If a farmland up the hill gets rainfall, what could happen to lower lands?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What is an example of a raw material being something that comes directly from a source?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A source of sugar in an ecosystem is", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A mark of adulthood common in most species is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What core ingredient of red pasta sauce comes from a flower?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "If something were to be melted, it would be heated above its melting point, like", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is likely to be the most direct result of offshore oil leaking?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which is the slowest to move through water?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Organic food is currently considered best for people because", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When you get farther from water, the water vapor in the air will ______.", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is a good example of camouflage?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "As they are immobile, what is an example of how animal life helps the reproduction cycle of plants?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Stopped means lack of what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The circulatory system brings oxygen to the body from where?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which relationship involves inheritance?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A car engine usually uses combustion to convert this into a motion and heat.", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When turned on, which product cannot convert electrical energy into light energy?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Refraction can easily be witnessed in", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "plant life is completely dependent on what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An island can sprout up from seemingly suddenly because", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where might you find the substance used to make the shiny metallic foil paper used in cooking?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What increases the number of pollinators a flower will attract?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Chloroplasts exist in plants and can be located by knowing where", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Sunlight transfers heat energy to", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Humans swim in the liquid form of", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What can keep you moisturized other than water?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which of these items can a human move by pedal power?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "It takes the Earth one year to go around the sun. It takes the moon how long to make one revolution around our planet?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What might be the natural habitat of a small creature known for making a noise by scraping limbs together?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What converts electrical energy into light energy in a light bulb?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A river can disappear over a period of time?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "A temperature in the negatives during the night got slightly less negative during the day, which means it got more", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is natural gas?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Science fact: a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A plant root growing into rock cracks is an example of what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What does the earth orbit that causes the seasons to change?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "why would a mouse run away from a cat?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A golden eagle will hunt using its talons to collect", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "The Grand Canyon was formed by the Colorado river by what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The next moon phase after a solar eclipse is", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If a lot of people have forgotten about a product, the amount of money made by the person selling it will be", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What can you find in a forest", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What creates a valley?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is the largest organ of the human body?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What eats other organisms?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What becomes smoother through weathering?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The element that heats toast is an example of:", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The insect's cocoon being created occurs during the", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Rocks sometimes contain what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What happens to a cat's fur in the summer?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "After evaporation water becomes", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "A magnet will stick to which of the following?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Hypothermia will set in under which conditions:", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do octopuses release to blind predators?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which decreases visibility while driving?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What animal can live without oxygen", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "An inherited characteristic present in a baby is", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "if your shoe changes form at a certain heat level, what can that be described as?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which would be the product of a solid that was brought above its melting point?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A beaver is going to experience a long winter in the upcoming months. The beaver knows that the weather is changing, so it begins to eat more and more food, knowing that it can survive meager months by being", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Lighting a candle will cause the candle to", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Nerves are used to feel what on the skin?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A person could get in trouble for doing what in a protected environment?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The southern and northern hemisphere's seasons are opposite each other, so when the northern hemisphere is having it's longest day, it's the southern hemisphere's", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What does photosynthesis require", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "which of these would disturb a standing body of water?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "We are trying to use air as sources of energy because there is an infinite amount of it, same with water. These are two examples of", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If two blocks have unequal mass, which will speed up the most with a common force applied", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Which animal is known to have many learned behaviors?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is it called when a cell converts oxygen and carbohydrates into carbon dioxide, water, and energy?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A plant stem contains a system of tubes for transporting water and nutrients to", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is an example of a change in the Earth?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "when it turns day and night on a planet, what cause this?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why might a person fall asleep after being lost in a forest on a freezing cold day?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What does a tuna have that causes it to swim faster than a seahorse?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Leaves play an important role in photosynthesis by being", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The inventor of pasteurization also worked on", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "During seasonal changes, like from summer to fall, what is a common noted change?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A bird would find nest making materials in a", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the best example of a live birth?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Skunks are an animal which has a stink sack, which means that", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A factory is producing various items. If the factory wants to produce something that will itself produce little pollution, it could create", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What source of power can be used up completely?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What might Lassie do to beat the heat?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "in science, what is a cause and effect guess called?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A sound that is made by an animal with two legs is", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Creatures such as opossums and raccoons are scavengers, meaning that they get their food from various sources, wherever and however they can, even from trash cans. This can negatively impact the creature's health if", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A few weeks after the month of December in the heart of Australia is often referred to as?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is an instance of carnivores only eating animals?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An example of conservation would be", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What vitamins help heal bones?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "An example of an electric insulator is", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Recently, a lot of people, en masse, were told that they should take an opportunity to cast an image of an object through a pinhole onto a screen, in order to best enjoy an activity. This was because", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "how can one alter plants without interacting directly with it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Sleet is made of", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A thin beak is most useful to", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "in which of these environments would one ideally situate a farm?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Telephones will transfer acoustics using what energy", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "An example of a flexible container", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "which one of these methods can a potential prey use to escape attack?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "okra has to have water, sun and what to grow", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Windy means what is going at high speeds?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is an example of weathering occurring over several years?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Food digestion in humans can be aided by", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which would a scavenger most likely eat?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The thermal production of a stove is generically used for", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Which requires respiration to use energy?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When a insect looks like another type of entity what is it called?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Nerves are used in order to sense which things?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The gravitational pull of the sun causes what phenomenon?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When blood passes thru the primary element of the respiratory system it's diffused with", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When Gia cooked her no-bake cookies too long, she discovered they had become hard, (though un-burnt). what is the most likely reason?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What happens when man moves into new environments?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "An example of heat changing the state of matter could be", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is an example of the appearance of stars seeming to move in relation to the horizon at night?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What month is in the season after spring in the northern hemisphere?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do bees convert nectar into?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "what happens when an animals' food intake increases", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would a rabbit most likely eat", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Decomposition occurs when a decomposer recycles nutrients from dead organisms back to the soil by eating them; what is an example of this?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If something living requires sustenance, it will likely", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What action has a positive impact on the conservation of nonrenewable resources?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "in electricity ceramics are sometimes used to", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A tape measure aids in", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What happens when someone on top of a bicycle starts pushing it's peddles in a circular motion?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "trees have chlorophyll so they make their own", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would you use in an apartment to keep your neighbor below from hearing you shuffle around a room?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A guy wants to make dinner for his family, so he puts a pan on the stove, adds some meat, and turns on the stove so that heat is being added to the pan. As the meat is warmed through, beginning to sizzle, it is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is needed to make an island?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What time of day does a solar panel work best?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Two gears grinding against each other will raise which of their properties?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "electrical current does what to a wire to cause it to heat up", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "if the surface of our planet is different after a while, what could have happened?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Sunlight is a source of", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What contributes to prey animals being able to survive predators long enough to mate?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Peat is derived from", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A bear hibernates through cold weather because", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Which shows a way to preserve natural resources:", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which does not support living things and is not a home to living things?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The Grand Canyon became so deep and large because", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A chipmunk that gathers many different items can often store what for later usage and help with plant dispersal.", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A young boy decides that he likes dogs better than he likes cats. A reason for this may be that", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A girl is turning sixteen and is experiencing changes to her breasts and other areas as she matures. These changes as she enters adulthood signify", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "When you heat liquids, what happens to it's ability to break down solids?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you wanted to be outside in the daylight for the longest period when would be worst?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A rock may be used as a shelter by a", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What season includes the last month of the year in the southern hemisphere?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "An anemometer would get a work out on a", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What heavenly object is closer to the planet where the TV was invented?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which is a function of the skeletal system?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What season is December in the southern hemisphere?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If someone is allergic to sunlight then the place they need to avoid is", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "After spring ends, the next time it will be spring is", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "In a bowl of water with the sun shining on it, what happens to the water after four hours?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Brackish water is often found where", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A wooden floor will be easier to slide a chair over than a carpeted floor will be because a wooden floor", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The cell membrane keeps a cell from", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a lawnmower runs over an anthill, the colony's population probably", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C: decreases"}
+{"question": "A celestial body grows a few meters in size every year, and the mass increases as well. After a hundred years, the celestial body will", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Knowing the formula for speed", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "if a ball on the beach bursts, what would most likely escape?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Leaves play a role in the making of", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A full moon is caused by", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Someday, the ground under the pile of rotting grain in the field will be", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "In what way do mice come into the world?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "what do animals need to protect them from bad weather?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A way to tell if a rock could possibly hold Fe inside is to", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The black bear in Alaska is known for hunting this type of feast", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Draining the rain with a rain gutter onto bare ground through a spout will", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Keeping your fast food bags in the car until you get home instead of throwing them out the window is an example of protecting the", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Using trash in the way it was used in the last scene of the 'Back to the Future' movie is, most ideally, an example of:", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Water boiling in a pot on a stove is an example of", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do animals do if their habitat cannot support them?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What offers a tree with stability and a way to distribute nutrients throughout the plant?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "For what does a stove generally generate heat?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What is an example of an animal needing warmth for survival?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "As an herbivore, deers will eat", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "How many minutes are in a 24 hour day?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The moon is what to the earth?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Some plants are easy for hummingbirds to sip nectar from. While the hummingbirds are taking nectar, the plants also gain something, which is", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A flashlight works because the batteries inside of it produce chemical energy that", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The sun appears to move because of the rotation of a", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A leaf falling from a tree means", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A material that can be burned to produce electricity can be made from", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A swordbill is able to drink from long, narrow flowers where other birds are unable to because of", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "If you had a telescope what is something meant to be viewed by it?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A substance people use for writing also helps an animal deal with", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where might you find a gecko?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "which of these could lead to the introduction of new plant species to a place?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is an example of friction occurring?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is formed by water evaporating from a solution of water and minerals?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What does tearing do to a whole?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A man grows flowers in the winter using his greenhouse. The flowers blossom there, despite the cold, freezing weather and lack of sunshine, because", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "why must a cell delegate its essential functionalities?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "On the moon people are pulled down", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Grey clouds often appear before", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A refraction of light that splits into all different colors often occurs after", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When hurricanes move over land, the hurricane does what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What does a skunk produce?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "In which situation would an animal shed fur?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If seeds stick to the coat of an animal they can be?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A species that has only 1 living member", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "migration is when animals travel from the northern most state to Texas during what segment of time?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Which shows a change from potential energy to kinetic energy?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The type of climate change known as anthropogenic is caused by this:", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is one thing cloud precipitation can be?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "deserts are known for having what type of climates?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When the Earth's Northern axis is tilted away from the Sun the amount of daylight is", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where is the sun located at 12:00 PM?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Squirrels are seed dispersers because", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What type of human diet would be most comparable to a cow", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "pushing against a rolling boulder will decrease its", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "what is one use for a radio", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Turning beef from red to brown requires energy from", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is the earth's surface made of?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What room in a house would signify the excretory system?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What role does the first step in the food chain have?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}

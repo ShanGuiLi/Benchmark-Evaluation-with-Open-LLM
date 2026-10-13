@@ -1,0 +1,4 @@
+,accuracy,accuracy_parsed,unparsed
+task,piqa,piqa,piqa
+model,,,
+deepseek-r1-distill-qwen-1.5b,30.75,61.49,348.0

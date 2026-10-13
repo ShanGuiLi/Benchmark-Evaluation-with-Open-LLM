@@ -1,0 +1,710 @@
+{"question": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do people aim to do at work?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you find magazines along side many other printed works?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where are  you likely to find a hamburger?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "James was looking for a good place to buy farmland.  Where might he look?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "In what Spanish speaking North American country can you get a great cup of coffee?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What do animals do when an enemy is approaching?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Reading newspaper one of many ways to practice your what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do people typically do while playing guitar?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "If you want harmony, what is something you should try to do with the world?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Aside from water and nourishment what does your dog need?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "A fencing thrust with a sharp sword towards a person would result in what?", "gold": "E", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Unlike a spider and his many sight seers, people only have what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where do adults use glue sticks?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is someone who isn't clever, bright, or competent called?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Blue read material outside of his comfort zone because he wanted to gain what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Committing perjury is a serious what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you are prone to postpone work what will you have to do in order to finish on time?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "James wanted to find an old underground map from the 50s.  Where might he look for one?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where would a person be doing when having to wait their turn?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "She was always helping at the senior center, it brought her what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Who is a police officer likely to work for?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If you have leftover cake, where would you put it?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where is a doormat likely to be in front of?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Bob the lizard lives in a warm place with lots of water.  Where does he probably live?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where can you put a picture frame when it's not hung vertically?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where can a human find clothes that aren't pants?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When a person is beginning work, what are they building?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A child wants to play, what would they likely want?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The teacher doesn't tolerate noise during a test in their what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If there is a place that is hot and arid, what could it be?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "If you are in a bar in a glove shaped state where are you?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Crabs live in what sort of environment?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where can you find a snake in tall grass?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where is a human likely to go as a result of being hungry?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where would you find a single shower curtain being used?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where is a good idea but not required to have a fire extinguisher?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What continent has the most castles?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If you have to read a book that is very dry and long you may become what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Despite the name a pawn can be quite versatile, all the parts are important in a what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What would not be true about a basketball if it had a hole in it but it did not lose its general shape?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where does a wild bird usually live?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you expect to find white mice?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "John felt that his actions were fate.   Harry said that he could have always made a different what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What could committing murder prevent someone from doing?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you put uncooked crab meat?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The man had a fear of illness, so he never visited friends who were a what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Which large land mass is home to the most monkeys?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "You'll find a landing at the top of what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where can you find a number of wind instruments together in public?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "A mountie got off at a subway stop.  What city might he be in?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Billy set aside a block of time for having fun after work. Why might he do this?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would you be unable to do if you have too much greed?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "I did not need a servant.  I was not a what?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "How would you get from one side of a canal to another?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "While washing clothes they became what when caught on the sharp object?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What would encourage someone to continue playing tennis?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What regions of a town would you have found a dime store?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where might an unused chess set be stored?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Sailors drive many different types of boats, what type of boat involves their namesake.", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where could a person avoid the rain?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Why would a person like to have a large house?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Who do professors work with?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Colorful anemone look somewhat like what object you find on window sills?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The hikers stopped to have a drink, simply put they what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When you get up in the morning before you begin work you should do what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If a person is trying to keep something in their hand what should they do?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Playing baseball is a lot like any other sport, there is always a risk of what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If I want to watch a movie without leaving my home what might I use?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What does a successful dog grooming session likely to make a owner feel?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The tourist entered Mammoth cave, what state were they in?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What does someone typically feel when applying for a job?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What kind of feelings does buying presents for others create?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What green area is a marmot likely to be found in?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What does a kindergarten teacher do before nap time?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "To play sports professionally you must do what very often?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What will a person going for a jog likely be wearing?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The child pretended he was reading newspaper, he couldn't actually do it without what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Jenny enjoyed helping people.  It brought her a great deal of what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you find a basement that can be accessed with an elevator?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "He was at the gym trying to build muscle, what is it called that he is trying to build muscle on?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The man was going fishing instead of work, what is he seeking?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you find a large dining room containing a fancy chandelier?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The extremely large cargo plane could only land at a specialized runway, these were only located at a what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "How can someone be let into a brownstone?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would someone purchase an upright piano?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Diving into backyard pools can be very dangerous and can lead to serious head and what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would one find a snake in a cage?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When you fail to finish something, you failed at doing what to it", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "John didn't care about style.  He felt that form was less important than what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When you get together with friends to watch film, you might do plenty of this?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A supermarket is uncommon in what type of collection of shops?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Before racers start to run they must do what at the starting line?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What is a person called who doesn't have immortality?", "gold": "E", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "If chewing food is difficult for you, what is a possible reason?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where can children play with animals?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What kind of tale might feature a talking weasel?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What kind of status is the bald eagle given?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why do most people take a quick rest during the day?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What could suddenly stop someone when he or she is running?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where would you find a monkey in the wild?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where could a sloth live?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A gentleman is carrying equipment for golf, what is he likely to have?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you take the risk buying a used car, you still hope it can what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What is the primary purpose of cars?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Alabama is full of different people, but they are all citizens of what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do airplanes do as they are arriving at the gate?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "If a person with mental illness stops treatment what will likely happen?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A loud machine is irritating, but many are expected where?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If I have a modern light source in my living room, what is it likely to be?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Who might wear dark glasses indoors?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What instrument can be played with an air of happiness?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What animal has quills all over it?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Why would you go to an office?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you spend all your time buying and not saving what is is likely to happen?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do they call the trash in Australia?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Joan wants to cook a potato, where should she place it?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A person with an allergy might be doing what if they awake suddenly?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where is a ferret unlikely to be?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Immediately after peeing, a person's bladder is what?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "A car was hailed to chauffeur someone to the opera house, where was it heading?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What do you go to see for live entertainment?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "A creek is a body of water found in what low land?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If I have a pet bird, what does it likely live in?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Joe and Mac were playing basketball. They did it every day in their back yard.  Why were they playing basketball?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What makes someone a nomad?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is a treat that you dog will enjoy?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Women used to be expected to wear a dress but it's now acceptable for them to wear what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The fact that Joe was able to memorize the list in spite of his apparent  state proved that part of his brain was what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is a wet person likely to do?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an what?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "After high tide, where on the coast can you look to find a sea anemone?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "At a grocery store they sell individual potatoes, where does the grocery clerk likely put the potato?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What room is a rubber bath mat usually kept?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What would you put meat on top of to cook it?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Minerals can be obtained in what way for a person who avoids leafy greens?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What might a couple have a lot of when they are deciding on stopping being married to each other?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If a person is working a lot, what are they likely trying to earn?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "How can you let someone know about your anger without hurting him or her?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where is one likely to find a brownstone?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What language type is someone from Iran likely to use?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "The child wasn't allowed in the kitchen but still wanted to help, what could it do to help in the dining room?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "He was having a hard time expressing himself in a healthy way, the psychologist said he was mentally what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "How would you express information to a deaf person?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Printing on a printer can get expensive because it does what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "One of the potential hazards of attending school is what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What could bring a container from one place to another?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is it called when you are talking to someone?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The family finished dinner, the child's chore was to load the dirty dishes where?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where could you find a bureau as well as many politicians?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "For some reason she was devoid of regular emotions, buying products was the only way she could feel what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where are horses judged on appearance?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why do people read non fiction?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where are you likely to set papers while working on them?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "John had a massive debt to 50 million dollars.  Compared to that, Leo's 2000 dollar debt seemed what?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "The man flew his airplane over the city and saw pollution visibly in the sky, what was polluted?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is a very unlikely side effect of becoming inebriated?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If not in a stream but in a market where will you find fish?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What are people likely to want to do with their friends?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "During a shark filled tornado where should you not be?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What is the likely result of buying products in excess?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What is a person trying to accomplish when taking analgesics?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you put a glass after drinking from it?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where would you buy food?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When a person admits his mistakes, what are they doing?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Donald is a prominent figure for the federal government, so in what city does he likely spend a lot of time?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Of all the sports, Billy enjoys football, but what does his concerned mother think of the sport?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What city will likely have many parking structures?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is the habitat of the fox?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "They children loved having a back yard, and the parents loved that it was a safe what?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "While people just throw coins down them now, what originally had a pail to be lowered for it's intended use?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When a human is earning money, where are they often found?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Why do people play chess on the weekends?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What do you need energy to do in gym class?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If a person were going to bed, what would be their goal?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What are candles good for eliminating?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What room would you find many bookcases and is used for contemplation?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where do you head to travel to a star?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The player lifted his cornet and walked in rhythm, what was the player a member of?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When someone is talking and you missed something, what can you do to get them to repeat it?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where does one store fabric in their own home?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do most companies not want to have relative to demand?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The cancer patient was expecting to die, so he made out his what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you partied all night you could find yourself already what, even when just beginning work?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The cat carefully navigated the area, they do everything they can to avoid what?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What is someone usually doing if someone else is talking to him or her?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What does the sky do before a rain?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Pens, computers, text books and paper clips can all be found where?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What geographic area is a lizard likely to be?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "As a result of dying, what happens to organic material?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can you buy a clock, clothing and wrenches?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do you do when you're in a new place and want to see new things?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What happens when to ice when it is in the sun?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where can you store your dishes in your dwelling?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "The man laid on the soft moss and looked up at the trees, where was the man?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is someone doing if he or she is sitting quietly and his or her eyes are moving?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "A man takes a seat at a museum outside of Barcelona, where is he likely?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you find a toy soldier that is being played with?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where are you when you're about to use your plane ticket?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Flowers make a good center focal point, just one of many arrangements that look good on a what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "How can a human cross a river and not mess up their hair?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "You can find a monkey in what West African region on the Gulf of Guinea", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Surprising an angry person could lead to what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where can you get a lizard to keep in your home?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a reception is held with hotel guests walking by, what is the likely venue?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is a place that is far away from your house and where you could consume beer?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If a court case is dismissed after hearing testimony, what would be a likely cause?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Sitting down quickly after eating beans could lead to what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The car's steering seem quite loose, but he still considered purchasing it because he needed something small and what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "His phone was dead and they couldn't find the expressway, he opened up the glove compartment and handed his passenger the what to navigate?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What would someone use a personal key for?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Her voice lent her to the alto section, what group did she join?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where are you likely to find a Japanese restaurant not run by people from Japan?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Animals who have hair and don't lay eggs are what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "John was an aristocratic fox hunter.  Where might he live?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where is a grape likely to be being fed to someone else?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Some food can be stored at room temperature until you open it, then you should keep it in what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If you're going to a party in a new town what are you hoping to make?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where does one usually keep literature?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "WHat type of keyboard is made up of one or more pipe divisions?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The bell rang, and the congregation began to what in to the church?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "James needed smooth sandpaper, but instead he got what type?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you borrow furniture if you do not have any?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "I want my wine stored in darkness, where should it go?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What would you do if your date does not show up?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "John farms anemone in what type of facility?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Brawn opened the curtains so that the sun could do what?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "How might releasing energy that has built up feel?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where might it be hard to get furniture to?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Where would you get jeans and other wearable items to take home with you?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "In what substance do clouds float?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where do most people make coffee?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where can someone get a new saw?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What would you do to a crime scene before asking a question?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where would you go if you want to buy some clothes?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where is food likely to stay dry?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is it called when a person with mental illness is able to lead a relatively normal life?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where do you keep musical instrument so it doesn't get scratched?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "While John Candy and Dan Aykroyd didn't run into a gazelle, you'd have to go where to see one?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When we are running what are we doing?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "It's dangerous to let pet birds free so it's better to keep them what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A beaver is know for building prowess, their supplies come from where?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Going public about a common problem can gain what for a celebrity?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "If it is Chrismas time what came most recently before?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "If someone found out their brother was having a daughter, they would have to add a niece limb to the what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "what do you fill with ink to write?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you were lost you might need a map, the best place to find one on the road is at any what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would a cat snuggle up with their human?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What is a place that has large cable hanging overhead?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where do cars usually travel at very high speeds?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What might a person be watching if they see a man with a suitcase full of money?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "If I put in my key and open a hinged door, where am I likely entering?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If somebody is working at a reception desk, they are located at the front entrance of the what?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What is it called when a person tends to leave things to the last minute?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What will you do if you do not want to settle in one place?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Jane works for the government as a senator, where does she spend a lot of time?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is it called when two people in love have children?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "It takes ambition to complete a job, but the first step is to what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where can you find a restaurant's phone number?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What would you put coins into to make it work?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "A patriotic guy with a camera is looking for a bald eagle, what is he likely to do with the eagle if he finds one?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where can you go to use a piano in your neighborhood if you don't have one?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you get a shower curtain if you do not have one?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Kissing is normally an activity reserved for your romantic what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What does a child learn to do before school?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "According to what book did an apple tree lead to the downfall of man?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What might a kind person do?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Name a location where you would not want to find mice.", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where do most people turn to get information on their phones?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What happens to a body after death?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Though she had a disability, what did her encouraging and positive coach see in her?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When you see something rise, you are where in relation to it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you keep a rug near your front door?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What do you do when you need to get food?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Brad tried to arise from bed but he could not.  Instead, he just continued to do what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a heifer is really high quality, you might take her where?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What do people want to acquire from opening business?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What has someone who had finished their undergraduate done?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "By learning about the world, many poor college students gain what?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "where is seaweed from?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "how can i store cooked steak?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The audience cheered when a goal was scored, what were they spectating?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What western state has thousands of miles of shore?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Everybody seemed to be crying at the holy site, the tour guide explained that this was what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where is a public monument likely to be erected by a city?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would a person live if they wanted no neighbors?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where is the control room that controls a PWR located?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you're attending school and are falling asleep you're likely experiencing what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "I want to buy a gong, where should I look for one?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What would friends do if they need each others' help?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "When people are playing a game, what is their motivation to play?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where could there be a battle that involves words?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "John didn't mind getting in line.  It was what game after that he hated.  The time, the sore feet. He did not like doing what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The old man needed to have rest multiple times a day, he would do what on the couch and catnap?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The end of the barrel of what primitive firearm is bell shaped?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where is a good place to store pamphlets in your home or office?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where is a good place to put a hamburger?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "A story about World War II would be set when?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What type of geographic area will you find a marmot?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Most people make stupid assumptions that are based on their prejudices.  What might they do instead to achieve better outcomes?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What is something children can do while traveling in a car?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you hear a trumpet along with other instruments made from the same material?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Stabbing to death of a person is what sort of way to die?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where is a great place to buy fresh fruit?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The church was giving assistance, what were they hoping to accomplish?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where is a shelf likely to be hidden behind a door?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "The man got a pail to catch the draining motor oil, where was he likely doing this at home?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What kind of cold storage could you find in your house?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The pitcher stepped on the mound ready to throw, where was he located specifically?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If it's not used for hair a round brush is an example of what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "His parents thought he was suffering from boredom, but the teen loved to lay in bed and just do what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The electrode wouldn't spark, it turned out that the what hadn't been connected?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Riding a bike for a long time can cause what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What could happen to a cat other than wanting food?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you turn off the music in a room with no other noise that room would be what?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "In what country are the most fast food restaurants?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would walk through a central passage to catch an elevator?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do people do when networking?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where can you store you spare linens near your socks?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What might someone do after they finish creating art?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "To get clean clothes you to what to them?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The person tried to reduce his weight with a shrink ray, but he got it backwards and only did what?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "If you wanted to show off silk, what item could it be on?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What will happen if you inject water into yourself?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Athletes soak in hot tubs to relieve what after playing baseball?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would you hear a violin along side many string and wind instruments?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is the sun ultimately responsible for?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Mandy lived in a train station.  She longed to see distant places. Where might she imagine going?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Joe is a  squirrel, which is an animal. He probably lives in what sort of place.", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where could a personal ficus live?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "If the president wanted to ban snakes, where would he issue such a decree?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "They were searching for rocks, so they missed the birds overhead as they stared at the what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you expect to find a dictionary along side other writings you can borrow?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What would be necessary for getting in shape?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A statue that shoots liquid is called a what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you have a child who gets in trouble for being hyperactive you may need to teach them how to what down?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What can you use to store a book while traveling?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you find gazelle under a G?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Competing can lead to great highs, and also great lows when suffering what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What blocks sunshine?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When you feel too much heat in your home you can turn on what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would you store a pillow case that is not in use?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If the kitten was going to grow up to be a mouser like it's mother, where should it spend most of it's time?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Where is that man buying silk from?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where is a teacher likely to keep her clavichord?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where are you if your bieifcase is going through an x-ray machine?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why would you take a bus to work?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you are hungry and going fishing, why would you be going fishing?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Dogs are very loyal if they have a good owner, they will always what them?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "For many males hair is a concern as they get older, it begins to what, causing a receding hairline?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The fresh herbs, flowers, and vegetables will shrivel up if people don't do this?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "I picked from an apple tree outside of Fort Wayne, where am I?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If you're celebrating with too many cocktails what may you have in the morning?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The architect thought that a mezzanine would look good, but the planning committee rejected it.  They told the architect that they felt it was a potential hazard given the ages of the people who would be using it.  What might they be designing?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The person wasn't bothered by the weather, she had remembered to bring her what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you want to learn about the world and understand the real reasons behind cultural norms and mores, you have achieved a sense of what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "A person would join a trade school for finding information related to what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Joan was a baby, so there were many things she couldn't do, which caused problems for her parents.  Name one thing that makes raising a baby difficult.", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where would you put some ham if you want to cook it?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Running errands with screaming kids will likely cause what?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Sam wasn't lying, but he left out important details. He was being what?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where may you be if you're buying pork chops at a corner shop?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where is a well used toy car likely to be found?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where can fisherman store their rods when on a fishing trip?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you find an office worker gossiping with their colleagues?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you put nails if they are already packaged?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What is a person who is good at sports considered?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where does a child likely sit at a desk?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What does playing soccer and winning lead to?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What attraction is sometimes so large that you need a map to find your way around?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If my husband never helps me doing housework, what might that lead to?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "The juror was quite bored and zoning out but wanted to convey he was hearing testimony, so he just sat there doing what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When a main artery is used to expedite travel what would it be referred to as?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If someone rules the universe of what are they in charge?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where can many stores with clothing be found?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When an elderly person needs help performing daily tasks, who might they call?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where is beer drank by people watching sticks and pucks?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where might you see a green field while driving?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "I am looking for honey right from the source, where should I look?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "A weasel has a thin body and short legs to easier burrow after prey in a what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where is one likely to find a fan for their stove?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Jodie felt a tightness in her chest. She was worried but didn't want to go to the hospital. Where might she go instead?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If you're buying beer for a float trip what are you preparing to do?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Piece of land in Canada where you can find marmot?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you find a fox that is made up?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "In basic training they build you up only to do what, all in hopes of building you up even stronger the next time?", "gold": "B", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Billy saw a dog running from him and did his best to get away from it.  The leaped up to where the dog couldn't reach and was stuck.  Where might he have been trapped?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "John and Judy were parents.  They had two wonderful kids who weren't always well behaved.  They were light tough, though.  They felt it was a parent's job to do what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What are you playing if you're fiddling on a violin?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "If somebody buys something and gives it to me as a free gift, what is the cost status of the gift?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why does someone flirt with many people at once?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Why would a band be performing when there are no people nearby?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What is used to grind wheat for bread?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you have a large satchel with you when you fly you'll be asked to store it where?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would someone keep their nylon leggings?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you spend a long time running after a ball how are you likely to feel?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When you need to rest it's often because you have been doing what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "He was beginning to worry they wouldn't get on the ride before closing, they had been standing in queue for a long what?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "This is an unavoidable physiological consequence of running.  What is it?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Sometimes a person has a fear of water or a dislike of being wet, it is still important to make sure they are having a bath why?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "To get out of there the person had to keep on walking, they had to keep on what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Joe and Jill didn't want their children to be sedentary.  They might limit the time they children spend doing what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "They were making sauerkraut, the instructor explained the liquid should be above the cabbage in the what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "From where would you normally take a cup when you're about to get a drink?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What are you using if there are speakers strapped on your ears?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The bald eagle flew from Mount St Helen's to the Puget Sound and all over what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How can people fulfill their own calorie requirements?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What does a stove do to the place that it's in?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If you aren't well rested and it's a rainy day what might you do?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you have a stove if you don't live in a detached dwelling?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What kind of place has a revolving door and has things to buy in it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can books be read?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where is seaweed usually found alive?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "If a lizard is fed by people every day, what has happened to it?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you wanted a license to catch crabs, what government office would you go to?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What furniture will you normally find near a side chair?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Metal is used to make what?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What is the word added to Manchester that signifies what county it is in?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Lawyers often talk in front of an audience where?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If I wanted to eat something that is made from plants and needs to be washed, what would it be?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Ficus can be planted in a yard to make summer more bearable, what sort of areas do they create?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Children's behavior is a direct reflection of their what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "John bought a new water hose.  But he found his old one near his car.  Where did he find the old one?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where do you keep your pizza slice before you eat it?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What will likely happen after stabbing to death a person?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The boat passenger was explaining his fear of blowfish, but the captain figured he meant piranhas since they were on a river in the what?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "I want to see a prepared slide up close, what would I use to help?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where can you buy a magazine, paper or gum?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you get some wood if you do not have any?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What negative effect can competing in a chess game on a cold day have?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Why is it hard for a young child to read a long book?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "On a hot day what can you do to enjoy something cool and sweet?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What is likely to be found in a book that is not a foreword?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "How many hours are in a day?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The couple explained they were having trouble communicating, it seemed every conversation took great what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What would a person need to do if his or her captain dies at sea?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do children require to grow up healthy?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The field general began to write out a letter to the king, he was told to send what when the enemy was near?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What will you put on a pen to prevent it from drying out?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "They dealt with combustible mixtures in their experiments, this is why they kept a fire extinguisher where?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The man working in the attic swatted away a bee, but soon the single bee was an entire what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do you need to wear when hiking?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What type of store would have lots of sports equipment?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can you buy a replacement ax handle?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Is that person acting as silly as a clown?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Which group of states is Louisiana part of?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you put a plate immediately after eating from it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do people do when they don't understand something?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where is a likely place for an ivy plant?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What type of residence has a ground floor with a stoop?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If the wood texture is not smooth it is what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What might happen if someone is not losing weight?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Billy lived in the capital of his country, then he moved.  Where might he move to?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What could prevent a driving car from continuing to drive?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What is a person likely to experience after they stop being married to a mean person?", "gold": "C", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Despite the large crowds, how did the depressed man feel?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where does a maid empty a trash can?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "The dog curled up for a nap, it was tuckered out because it had just been what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do the feathers look like on birds found in the rainforest?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the opposite of an area of elevation?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What do singers need to do before a show?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What type of feeling is performing for the first time likely to produce?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If someone is found to be committing murder, what did they do to someone?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The computer was hooked up to the internet, what could it do as a result?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Seeing idea become reality was a dream of hers for a long time, but as the time came to get on stage she had more what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where off the eastern U.S. would you find an anemone?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where are traveling clothes often kept?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Although the sun did rise, what did the pessimist warn everyone it would do?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The hardcovers were especially tall, so he removed a shelf on the what to make room?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you're watching a comedy film what would you expect to hear from the audience?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What can eating lunch cause that is painful?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Eating is part of living, but your body doesn't use it all and the next day you will be doing what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What would you use to find a place to stay?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "If you're seeking a connection for your laptop, what are you trying to hook up with?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What can happen when you contemplate alone for a long time?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "I was apprehensive to buy the expensive equipment to play a game with so much walking and swinging around in grass, but now I understand why people what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "John needed a straight wire.  Unfortunately, this one had endured some abuse and had become what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Metal is taken from what which is pulled from the ground?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Sean was a wreck.  He  loved to build houses, but in his current state, he couldn't do what?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What would be happening if you are pretending to be a police officer?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you buy a finely crafted writing instrument?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The detective was finding information from witnesses, why would he do that?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Joe found spiders in the place where he keeps his tools.  Where might that be?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "While on the fan boat he thought he'd see swamps and gators, but he was surprised to spot a bald eagle in what nature area?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where are you likely to find a supermarket?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you need to use a lantern?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What area does a police officer patrol?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is made up of people?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why would a small dog pant if it's hot outside?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you display a picture on a horizontal surface?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What skill is needed for riding a bike?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "The department to where vendors deliver goods for sale is called what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Exercise is very good for you, for faster recovery you should always do what afterwards?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What happens when you go somewhere and forget something at home?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you acquire a wind instrument for you own use?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a storey contained a panoramic view, what kind of structure would it be in?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What should I do with a jumping rope?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do geese do every fall in fields?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where outside of a city would a squirrel live?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "You should watch out for snakes if floating down what African body of water?", "gold": "D", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "To what do trees roots cling?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What could people do that involves talking?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you're a child answering questions and an adult is asking them that adult is doing what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When you get an F, you fail. If you get A's you are?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What is the main purpose of having a bath?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "The ball was hit over a boundary and struck an audience member.  What kind of game were they playing?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is someone operating a vehicle likely to be accused of after becoming inebriated?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you get jewelry if you do not have any?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do young boys do on the ice in the winter?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "She loved spending money at the thrift store on knickknacks, this resulted in a lot of what on every shelf in her house?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Joe was there to meet a large number of people.  As he filed though the entrance hall, he saw many strangers who came from far away.  What sort of building is he probably in?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The family wanted to adopt for enviro-ethical reasons, what did they abhor?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What happens when airplane engines cut off and are unable to be restarted in flight?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would you be concerned about finding a cavity?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Human beings learn about current events from what print item?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "In what kind of environment does an anemone live?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If I am suffering from boredom, and I want to see something beautiful, what should I do?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The goal was to hit the target, but a projectile ball can't hit anything if it isn't in what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where is a good place to set a cup of coffee while relaxing?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If a fried egg was runny and there was no toast to sop it up, after the meal there'd be a messy what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What will happen to animals after eating food?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "If I wanted to grow plants, where could I put a lot of dirt?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What does a person often feel about someone judging them guilty?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "A town between two mountains is located in a what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Why did the heavy metal band need electricity at the stadium?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is a person looking for when completing puzzles or riddles?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If someone was making breakfast, they'd probably put two slices of bread in the what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is part of a republic like the USA?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where do you keep extra clothing on a hike?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "There was no shade for Jenny.  She was forced to lie there exposed to what?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What could happen to you after you are cleaning house for a long time?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is someone doing when scheduling when to go to party?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What kind of path do comets tend to have?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The vet found malignant tumors on the animals, what is their likely fate?", "gold": "C", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "what is printed with ink and distributed daily?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What are people likely to do when an unexpected decent outcome occurs?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The company sent off many purchases, they used recycled cardboard as their what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Why might a person be known as a liar?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The child was politely waiting for dessert, he was eventually rewarded for his what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do you call the caretakers of a child?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Working on the elaborate task was taxing, it require extreme what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What may you have after awaking after a night of heavy drinking?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What uses a ribbon to put words on paper?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where are sheep likely to live?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If I was watching TV on the couch and the air was stuffy, I might turn the fan on to make the what more comfortable?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Who watches a play in an auditorium?", "gold": "B", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What is a possible outcome for committing murder?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "where is a good place to obtain new soap?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do professors primarily do?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where do you throw a ball at pins?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What might you need to do cleaning?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If student got a list of supplies from class like paper and pencils, their parent would have to go where?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a house has a subscription, what likely shows up in the driveway every morning?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "what does a person do to stay healthy?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If a person stutters when he experiences anxiety or excitement, he'll have difficult doing what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What do people need to do to change their lives?", "gold": "A", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Humans need shelter to survive.  They usually find shelter where?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Someone who had a very bad flight might be given a trip in this to make up for it?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The water in clouds turn in to what when it gets cold?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What southern U.S. state is know for having many swamps?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "When going to sleep what happens to your body?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where is a monkey likely to enjoy being?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is a form of anaerobic exercising?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "The earth is one planet in what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "James was below the balloon.  He watched it rise.  What direction did he look in?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Joe's cat smelled something delicious and jumped into this, causing him to panic and fear for its life. Where might it have jumped?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why would a person put flowers in a room with dirty gym socks?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The table wasn't level.  some parts were higher and some were lower with no rhyme or reason.   It was very what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The person signed up for home insurance, what is he seeking?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "James know that committing murder was wrong, but he thought that he could get away with it.  He was really troubled  and fearful because of what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "How can someone die from eating hamburger?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What does a self assured person often do?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "He was very outgoing, for him making friends was no personal what?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Paul wants carrots and doesn't need to drive anywhere. He gets them from where?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What could you use to fill a cup and then drink from it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "George checked the rotor of the Apache, which wasn't powered by internal combustion, but by what?", "gold": "A", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Where is a salt shaker most often kept?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where would you put a dollar if you want to go to a store and buy something with it?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What room is likely to have a sideboard on the counter?", "gold": "E", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "What is unlikely to get bugs on its windshield due to bugs' inability to reach it when it is moving?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where can a bath towel be borrowed?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why do people stop caring about their problems?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "They were never going to be big actors, but they all had passion for the local what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you use a folding chair but not store one?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you spend a long time shopping in uncomfortable shoes, you might develop what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What does impeachment mean for the president?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Noble citizen of the Roman empire believed those born with lower status were what to them?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Spraining an ankle while playing baseball will cause what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "John was traveling to a new city and took time to check out a business.  He noticed that its carpet was stained with sauces and ketchup. What type of business might that be?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If you have a condo in a Wisconsin city known for beer, where are you?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "How does someone go about buying beer?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "If there is gum on your shoe where did it likely come from?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What is main benefit to exercising?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "What is a tactic used to interfere with learning about science?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do people usually feel when falling in love?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Why are dogs often known as man's best friend?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where can you buy a two wheel transportation machine?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where do you buy condoms?", "gold": "A", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "Where is a likely place to store unused soap?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Loss of someone you love can cause what kind of feeling in your heart?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where in your home would you keep a ballpoint pen when not in use?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where can a student learn to play a triangle?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When you stroke a dogs fur what have you done?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "The wood was still rough to the touch, what did the woodworker have to do?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The chief saw his entire tribe wiped out, he was a leader with a single what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "If while driving to work another car makes a careless maneuver, what emotion might you feel?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would you find the sharpest parts of a triangle?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How might a automobile get off a freeway?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Sally thought that competing wasn't worth the risk. If she pushed more what might happen?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "John is sitting in a toilet stall in a bathroom, outside he can hear cars going around in circles.  What is the function of the place he is most likely at?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "What event might one buy tickets for seats?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "How does a planet usually move around the sun?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "When a group of people are talking at work they might be doing what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where could you find a shark before it was caught?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where is one likely to find poker chips?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can one obtain a bass fiddle?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Why does having a disability sometimes making academic tasks hard for a person?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is the purpose of playing games for children?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "If someone laughs after surprising them they have a good sense of what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "People played a variety of games in the soccer field.  It was the closest thing they had to what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "When someone has little knowledge and is judging someone they are considered what?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is a salesman responsible to do at work?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "How does going jogging generally affect one's self esteem?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where would you find people standing in a line outside?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you are committing perjury you have done what while under oath?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can you find the meaning of \"ficus\"?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The buildings were intended to not have residential kitchens in them, what were they designed for?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Animals come in all types, some fly thanks to their lightweight hollow what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where is a lake likely to be glacial?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Why do some people get passports and go to different locations?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where do apples form on an apple tree?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where areas are there likely to be many nightclubs?", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What does someone stop doing when being dead?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "The place where my linen closet is really needs repainting a light color as it only has one overhead light.", "gold": "D", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Punk rock music is an important part of what action sport?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Where is a bird likely to make it's home?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "How would you express information if you do not have a pen or pencil?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where would your hear a bass clarinet along side other wood wind instruments?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the opposite of a little of something?", "gold": "E", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "The piece of paper was worth a lot of money, it was an old Apple Inc what?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "If a car-less person want to listen to talk radio in private, where might they listen to it?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Billy was an astronaut.  When he looked at the world from space, how did it look?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Where is a good place to have a fireplace in a house?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What is the feeling of one having fun?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Christians believe you will go to heaven if you're what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "When did mammoth's live?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "What might result in an unsuccessful suicide attempt?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What can happen if you are buying products that someone else does not want you to buy?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The child was getting many gifts for his birthday, his father reminded him to do what after opening each one?", "gold": "D", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "From where does a snowflake form?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "Applying for a job can make someone feel what sort of emotion, even if they get it?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "A farmer sees a weasel in the woods, where is the farmer?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Traveling from new place to new place is likely to be what?", "gold": "B", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Turkey only has a small northern part of their country located in part of the what?", "gold": "C", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "Where might someone store a reusable shopping bag?", "gold": "E", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "How could you have fun by yourself with no one around you?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "What type of fruit is easily broken in to sections?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Marathoners feel fatigued after running twenty six miles, but some that have pushed them self too hard might be prone to what?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "I am cold, what should I do to stay warm?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Copulating with the wrong partner may be ill advised, many diseases can be transferred that can cause different types of what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "What do audiences clap for?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "Where would you get a balalaika if you do not have one?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Hoping for a beautiful day, what did the clouds do that disappointed everyone?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "The landscaper was carefully arching stones together, he was creating an elaborate what over the creek?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Where would you find a ticket booth and see a concert?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Who is not famous for a superhighway with no speed limit?", "gold": "E", "predicted": "D", "correct": false, "raw_output": "D"}
+{"question": "No matter what date you put on it, we all know the universe to be what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is a person considered a bully known for?", "gold": "C", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "When cooking sheep meat a lot of people might want to be well?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you sit in a chair while working toward an advanced degree?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "A good interview after applying for a job may cause you to feel what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "Computers have allowed everybody to answer questions they have quickly, but still we seem to be getting duller despite access to this what?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "James decided that competing was the right choice.   Not competing has a defined outcome, but if he competes then what could happen?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What could you use to get to some airplanes?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What are our bodies doing after having food?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "Why would one try to avoid work?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "What do you do in order to fly in airplane?", "gold": "A", "predicted": "E", "correct": false, "raw_output": "E"}
+{"question": "What is another name for the color of the fur of a dog with light colored fur?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "The lion sensed his competitor was timid, so what attitude did the lion take?", "gold": "D", "predicted": "B", "correct": false, "raw_output": "B"}
+{"question": "John felt a snake slither over him as he rested.  He was afraid to raise his covers for fear of startling it.  Where might he be?", "gold": "D", "predicted": "D", "correct": true, "raw_output": "D"}
+{"question": "Where can you find a place to eat in an urban area close to local nightlife?", "gold": "B", "predicted": "B", "correct": true, "raw_output": "B"}
+{"question": "You have to a lot of thinking while studying a new subject, but it is how you gain what?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "How will you communicate if you are far away from who you want to communicate with?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "At a shop what can you buy to put your spare unused things?", "gold": "E", "predicted": "E", "correct": true, "raw_output": "E"}
+{"question": "David watched some nesting birds using his binoculars while on vacation.  Where might David be?.", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}
+{"question": "Where would you find many varieties of plants including a rosebush?", "gold": "E", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "What are cats often known for?", "gold": "E", "predicted": "A", "correct": false, "raw_output": "A"}
+{"question": "Where can you find a dogs house?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "If you really wanted a grape, where would you go to get it?", "gold": "B", "predicted": "C", "correct": false, "raw_output": "C"}
+{"question": "Setting up framing, truss and beam are some of the first steps in what?", "gold": "A", "predicted": "A", "correct": true, "raw_output": "A"}
+{"question": "What is another name for a disk for storing information?", "gold": "C", "predicted": "C", "correct": true, "raw_output": "C"}

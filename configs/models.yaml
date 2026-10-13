@@ -1,0 +1,47 @@
+# 作业要求的 4 个模型。
+# 只保存 HF id 与元信息，权重由 Hugging Face 缓存管理（见 README）。
+#
+# chat_template:
+#   true  -> 模型自带 chat template，推理时应通过 apply_chat_template 构造输入
+#   false -> 基础/续写模型，直接用纯文本 prompt
+#
+# max_new_tokens:
+#   模型的生成预算。baseline prompt 不限制输出格式，模型会先写一整句话再给字母，
+#   预算太小会在句子中间被截断，导致 baseline 被低估、与 improved 的对比失真。
+#   推理模型（DeepSeek-R1）还要先写思维链，需要更大的预算。
+models:
+  - key: tinyllama-1.1b
+    name: TinyLlama_v1.1
+    hf_id: TinyLlama/TinyLlama_v1.1
+    chat_template: false
+
+  - key: qwen2.5-3b-instruct
+    name: Qwen2.5-3B-Instruct
+    hf_id: Qwen/Qwen2.5-3B-Instruct
+    chat_template: true
+
+  - key: deepseek-r1-distill-qwen-1.5b
+    name: DeepSeek-R1-Distill-Qwen-1.5B
+    hf_id: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+    chat_template: true
+    # 思维链很长，512 经常在结论之前就被截断（40-50/50 未闭合）
+    max_new_tokens: 1024
+
+  - key: qwen3-4b-instruct-2507
+    name: Qwen3-4B-Instruct-2507
+    hf_id: Qwen/Qwen3-4B-Instruct-2507
+    chat_template: true
+    # 64 token 预算下 CommonsenseQA 有约 1/3 的输出在解释中途被截断（44%→64%
+    # 解析率），baseline 被严重低估；192 给足"一句话 + 理由 + 结论"的空间。
+    # improved prompt 会立刻输出字母并停止，所以这个预算不会拖慢 improved。
+    max_new_tokens: 192
+
+# 推理默认参数（各模型可覆盖）
+inference:
+  # 64 是经 200-token 探针验证后选定的默认值：把 qwen2.5 的预算从 64 提到 200，
+  # 解析率完全不变（45/50），说明它剩下的未解析样本是真的"没给结论"，不是被截断；
+  # TinyLlama 提到 200 也仍是 7/50（它在复读选项表，给再多 token 也没用）。
+  # 只有 qwen3-4b 需要更大预算，已在上面单独覆盖。
+  max_new_tokens: 64
+  do_sample: false
+  temperature: 1.0

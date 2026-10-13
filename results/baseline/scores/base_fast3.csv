@@ -1,0 +1,10 @@
+model,task,variant,n,parsed,correct,correct_parsed,accuracy,accuracy_parsed,unparsed,pred_top,pred_top_pct,degenerate,time_s,raw_path
+tinyllama-1.1b,commonsense_qa,baseline,710,67,15,15,2.11,22.39,643,A,64.2,False,882.3,results/baseline/raw/tinyllama-1.1b__commonsense_qa__baseline.jsonl
+tinyllama-1.1b,openbook_qa,baseline,491,57,14,14,2.85,24.56,434,A,54.4,False,611.3,results/baseline/raw/tinyllama-1.1b__openbook_qa__baseline.jsonl
+tinyllama-1.1b,piqa,baseline,696,240,115,115,16.52,47.92,456,A,89.6,True,867.7,results/baseline/raw/tinyllama-1.1b__piqa__baseline.jsonl
+qwen2.5-3b-instruct,commonsense_qa,baseline,710,628,448,448,63.1,71.34,82,A,32.5,False,1401.4,results/baseline/raw/qwen2.5-3b-instruct__commonsense_qa__baseline.jsonl
+qwen2.5-3b-instruct,openbook_qa,baseline,491,419,282,282,57.43,67.3,72,A,48.4,False,1026.7,results/baseline/raw/qwen2.5-3b-instruct__openbook_qa__baseline.jsonl
+qwen2.5-3b-instruct,piqa,baseline,696,577,445,445,63.94,77.12,119,A,60.0,False,1469.5,results/baseline/raw/qwen2.5-3b-instruct__piqa__baseline.jsonl
+qwen3-4b-instruct-2507,commonsense_qa,baseline,710,429,298,298,41.97,69.46,281,E,22.4,False,4092.1,results/baseline/raw/qwen3-4b-instruct-2507__commonsense_qa__baseline.jsonl
+qwen3-4b-instruct-2507,openbook_qa,baseline,491,347,263,263,53.56,75.79,144,D,30.3,False,2945.0,results/baseline/raw/qwen3-4b-instruct-2507__openbook_qa__baseline.jsonl
+qwen3-4b-instruct-2507,piqa,baseline,696,664,477,477,68.53,71.84,32,A,56.2,False,3838.1,results/baseline/raw/qwen3-4b-instruct-2507__piqa__baseline.jsonl
